@@ -1,0 +1,18 @@
+Reference, Quantity, Value, Footprint, Datasheet, Item, MouserId
+AFF1 ,1,LTC-5723HR,Displays_7-Segment:Cx56-12,,LTC-5723HR,
+C2 C3 ,2,22pF,Capacitors_SMD:C_0603,http://www.mouser.com/ds/2/40/U-Series-894201.pdf,06031U220FAT2A,
+C4 ,1,0.33uF,Capacitors_SMD:C_0603,,0603YC334JAT2A,
+C1 C5 C6 ,3,0.1uF,Capacitors_SMD:C_0603,http://katalog.we-online.de/pbs/datasheet/885012206071.pdf,885012206071,
+CON1 ,1,BARREL_JACK,Connect:BARREL_JACK,http://www.mouser.com/ds/2/393/rapc722x_cd-371352.pdf,RAPC722X,
+D1 D2 D3 D4 D5 D6 D7 D8 ,8,ILED1,LEDs:LED_0603,,HT-193UYG-5592,
+IC1 ,1,ATMEGA328-AU,Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm,http://www.mouser.com/ds/2/36/atmel-8271-8-bit-avr-microcontroller-atmega48a-48p-365589.pdf,ATMEGA328-AU,
+P1 ,1,CONN_02X03,Pin_Headers:Pin_Header_Straight_2x03,http://www.mouser.com/ds/2/1/ts2181-30266.pdf,961206-6404-AR,
+R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 ,10,3K3,Resistors_SMD:R_0603,,CRCW06033K30FKEA,
+R10 R2 R4 R5 R6 R7 R8 R9 ,8,150,Resistors_SMD:R_0603,,CRCW0603150RFKEA,
+R1 R21 R22 R23 ,4,10K,Resistors_SMD:R_0603,,CRCW060310K0FKEA,
+R3 ,1,23.2K,Resistors_SMD:R_0603,,CRCW060323K2FKEA,
+SW1 SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 ,9,SW_PUSH,Buttons_Switches_SMD:SW_SPST_EVQPE1,,,611-KSR252GLFS
+U1 ,1,Vreg,TO_SOT_Packages_SMD:TO-263-3Lead,http://www.mouser.com/ds/2/308/MC7800-D-94905.pdf,MC7805ABD2TR4G,
+U2 ,1,AS1115,oren:QSOP-24,,AS1115-BSST,
+U3 ,1,74HC595,Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm,,SN74HC595DR,
+Y1 ,1,16MHz,Crystals:Crystal_HC49-SD_SMD,http://www.mouser.com/ds/2/417/9c-13007.pdf,9C-16.000MEEJ-T,
